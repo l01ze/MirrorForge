@@ -2,7 +2,11 @@
 
 > **Replicate any page on the web.** Generate production-ready 1:1 cloning prompts for any website — URL, local file, or plain description.
 
+
+
 MirrorForge is a Chrome extension that extracts the full structure, styling, and content of any web page and turns it into a detailed, model-optimized prompt. Drop in a URL, paste a `file:///` path, or describe what you want — MirrorForge handles the rest.
+
+https://github.com/user-attachments/assets/2228b96e-394a-444e-af17-6ec83b21be19
 
 ---
 
