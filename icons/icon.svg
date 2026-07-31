@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <polygon points="24,64 64,32 64,96 24,64" fill="#00E5FF" fill-opacity="0.12"/>
+  <polygon points="24,64 64,32 64,96 24,64" stroke="#00E5FF" stroke-width="2"/>
+  <polygon points="96,64 64,32 64,96 96,64" fill="#A855F7" fill-opacity="0.12"/>
+  <polygon points="96,64 64,32 64,96 96,64" stroke="#A855F7" stroke-width="2"/>
+  <rect x="48" y="38" width="32" height="52" rx="4" fill="none" stroke="url(#g)" stroke-width="3"/>
+  <line x1="52" y1="44" x2="52" y2="84" stroke="url(#g)" stroke-width="3"/>
+  <line x1="76" y1="44" x2="76" y2="84" stroke="url(#g)" stroke-width="3"/>
+  <line x1="48" y1="44" x2="53" y2="44" stroke="url(#g)" stroke-width="2"/>
+  <line x1="48" y1="84" x2="53" y2="84" stroke="url(#g)" stroke-width="2"/>
+  <line x1="75" y1="44" x2="80" y2="44" stroke="url(#g)" stroke-width="2"/>
+  <line x1="75" y1="84" x2="80" y2="84" stroke="url(#g)" stroke-width="2"/>
+</svg>
